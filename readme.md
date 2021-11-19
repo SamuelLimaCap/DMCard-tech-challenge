@@ -3,6 +3,7 @@
 ---
 
 #Para que serve
+
 O programa é um algoritmo que lê as linhas passadas através de um arquivo e verifica, em cada linha, se os parentêses estão abertos e fechados corretamente. Feito para verificar o uso dos parenteses em expressões matemáticas
 
 ---
