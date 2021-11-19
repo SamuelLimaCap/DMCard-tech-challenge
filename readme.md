@@ -4,7 +4,7 @@
 
 # Para que serve
 
-O programa é um algoritmo que lê as linhas passadas através de um arquivo e verifica, em cada linha, se os parentêses estão abertos e fechados corretamente. Feito para verificar o uso dos parenteses em expressões matemáticas
+O programa é um algoritmo que lê as linhas passadas através de um arquivo e verifica, em cada linha, se os parentêses estão abertos e fechados corretamente. Feito para verificar o uso dos parênteses em expressões matemáticas
 
 ---
 # Requisitos
@@ -40,10 +40,10 @@ Após a execução completa, a aplicação mostrará no console o tempo gasto em
 
 ---
 
-Após a passagem do caminho do arquivo, será criado, na mesma pasta da aplicação, um arquivo com a indicação de cada linha. Caso os parênteses expressão da primeira linha esteja correta, o arquivo colocará 'correct' na primeira linha de saida, caso não esteja, colocará 'incorreta'. Assim proseguirá esta regra com as outras linhas até a ultima linha.
+Após a passagem do caminho do arquivo, será criado, na mesma pasta da aplicação, um arquivo com a indicação de cada linha. Caso os parênteses expressão da primeira linha esteja correta, o arquivo colocará 'correct' na primeira linha de saida, caso não esteja, colocará 'incorrect'. Assim proseguirá esta regra com as outras linhas até a ultima linha.
 
 ---
 # Observações
 - Linhas em branco serão contadas como parâmetros
-- Caso o caminho do arquivo esteja errado, o programa irá soltar uma exception informando que não foi encontrado o arquivo 
+- Caso o caminho do arquivo esteja errado, o programa irá soltar uma exceção informando que não foi encontrado o arquivo 
 
